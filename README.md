@@ -1,5 +1,5 @@
 <div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
 </div>
 
 <h1 align="center">Hey there! I'm Pao González <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
@@ -40,7 +40,7 @@
 
 |‎ ‎ ‎ ‎ Let's Connect‎ ‎ ‎ ‎ |
 | ----------|
-| <a href="mailto:paola.n.a.0914@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="[https://www.linkedin.com/in/paola-nayeli-angelica-gonzalez-delgado-516543313](https://www.linkedin.com/in/paola-nayeli-angelica-gonzalez-delgado-516543313)"> <img src="https://skillicons.dev/icons?i=linkedin"/> </a> |
+| <a href="mailto:paola.n.a.0914@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="[LinkedIn](https://www.linkedin.com/in/paola-nayeli-angelica-gonzalez-delgado-516543313)"> <img src="https://skillicons.dev/icons?i=linkedin"/> </a> |
 <br>
 <br>
 
