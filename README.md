@@ -40,7 +40,7 @@
 
 |‎ ‎ ‎ ‎ Let's Connect‎ ‎ ‎ ‎ |
 | ----------|
-| <a href="mailto:paola.n.a.0914@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="(https://www.linkedin.com/in/paola-nayeli-angelica-gonzalez-delgado-516543313)"> <img src="https://skillicons.dev/icons?i=linkedin"/> </a> |
+| <a href="mailto:paola.n.a.0914@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://www.linkedin.com/in/paola-nayeli-angelica-gonzalez-delgado-516543313"> <img src="https://skillicons.dev/icons?i=linkedin"/> </a> |
 <br>
 <br>
 
@@ -52,4 +52,4 @@
 </p>
 <br>
 <br>
-Last Updated On: 05/11/2025
+Last Updated On: 17/12/2025
