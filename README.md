@@ -14,7 +14,8 @@
 - :trophy: Graduate of the [Mujer Digital](https://www.jamexico.org.mx/programasmx/mujer-digital) program.
 - 👯 I’m looking forward to collaborate on open source projects.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]().
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://github.com/user-attachments/files/25849553/CV.-.en.pdf).
+  
 <br>
 <br>
 <br>
